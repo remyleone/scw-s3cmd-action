@@ -1,0 +1,9 @@
+name: 'Scaleway s3cmd command line'
+description: 'GitHub Action for s3cmd configured for Scaleway'
+author: Rémy Léone
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: 'folder'
+  color: 'purple'
